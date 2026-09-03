@@ -125,4 +125,4 @@ Esta Política de Privacidad se rige por la normativa de protección de datos ap
 
 Para cualquier duda, sugerencia o ejercicio de derechos relacionado con la privacidad en VisiKids, puedes contactar con el desarrollador en:
 
-- **Correo electrónico:** [tuemail@ejemplo.com]
+- **Correo electrónico:** visisoftwareapps@gmail.com
